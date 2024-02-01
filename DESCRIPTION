@@ -57,7 +57,7 @@ Suggests:
     testthat
 License: MIT + file LICENSE
 LazyData: true
-URL: https://kwstat.github.io/agridat/
+URL: https://kwstat.github.io/agridat/, https://rogerssam.github.io/agridat/
 BugReports: https://github.com/kwstat/agridat/issues
 VignetteBuilder: knitr
 Language: en-US
